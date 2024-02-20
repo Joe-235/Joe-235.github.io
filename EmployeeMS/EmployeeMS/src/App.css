@@ -1,0 +1,19 @@
+
+
+@import "../node_modules/@syncfusion/ej2-base/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-buttons/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-calendars/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-dropdowns/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-inputs/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-lists/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-navigations/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-popups/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-splitbuttons/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-react-schedule/styles/fluent.css";
+
+.nav-link:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+    background-color: grey; /* Change to your desired background color */
+    color: white; /* Change to your desired text color */
+}
